@@ -1,0 +1,2 @@
+Date,Heure,Email_Eleveur,pH,Temperature,Ammoniac,Oxygene,Aliment_kg,Mortalite,Alerte_Auto
+2025-12-28,00:06:00,asd,7.0,26.0,0.0,6.0,0.0,0,✅ RAS (Paramètres Optimaux)
